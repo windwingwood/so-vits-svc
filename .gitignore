@@ -1,0 +1,6 @@
+dataset/32k/
+dataset_raw/
+__pycache__
+logs
+hubert/
+filelists/
